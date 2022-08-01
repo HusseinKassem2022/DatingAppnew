@@ -1,0 +1,108 @@
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\appsettings.Development.json
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\appsettings.json
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\API.exe
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\API.deps.json
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\API.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\API.pdb
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.dll
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\refint\API.dll
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.pdb
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Course Angular en C#.Net\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+D:\Course Angular en C#.Net\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\appsettings.Development.json
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\appsettings.json
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\API.exe
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\API.deps.json
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\API.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\API.pdb
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.dll
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\refint\API.dll
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.pdb
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\ref\API.dll
