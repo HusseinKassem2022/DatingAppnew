@@ -106,3 +106,11 @@ D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\refint\API.dll
 D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.pdb
 D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\Cs_Cources\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cs_Cources\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
