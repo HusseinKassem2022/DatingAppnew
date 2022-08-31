@@ -417,9 +417,7 @@ Temporary Items
 
 # content below from: https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
 # Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
+
 
 # Dump file
 *.stackdump
