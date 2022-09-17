@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IbBYKOgPXjcT0+fvc+FQ5O+mAXQbZMYiLhXxZSw+fUYfx025jfwBvKMHq6wCOCKQOFSgwL+aAOvW353n4cUv7Q==",
+  "dgSpecHash": "vGf2kPS3kA6tRYdHS/8qtKvioexhBVeBWfjn1bK5nsfpbkgZI6zz9vHsES32vOjb++M+GEBe+LqqOLuO0rCB4Q==",
   "success": true,
   "projectFilePath": "D:\\Cs_Cources\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,9 @@
     "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.7\\microsoft.data.sqlite.core.6.0.7.nupkg.sha512",
-    "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.7\\microsoft.entityframeworkcore.6.0.7.nupkg.sha512",
-    "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.7\\microsoft.entityframeworkcore.abstractions.6.0.7.nupkg.sha512",
-    "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.7\\microsoft.entityframeworkcore.analyzers.6.0.7.nupkg.sha512",
+    "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
+    "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",
+    "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.8\\microsoft.entityframeworkcore.analyzers.6.0.8.nupkg.sha512",
     "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.7\\microsoft.entityframeworkcore.design.6.0.7.nupkg.sha512",
     "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.7\\microsoft.entityframeworkcore.relational.6.0.7.nupkg.sha512",
     "C:\\Users\\Hussein kassem\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.7\\microsoft.entityframeworkcore.sqlite.6.0.7.nupkg.sha512",
